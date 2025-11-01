@@ -1,0 +1,19 @@
+{
+    "workbench.editor.alwaysShowEditorActions": true,
+    "workbench.editor.autoLockGroups": {
+        "default": true,
+        "workbench.editorinputs.searchEditorInput": true,
+        "notebookOutputEditor": true,
+        "jupyter-notebook": true,
+        "github-issues": true,
+        "repl": true
+    },
+    "workbench.editor.defaultBinaryEditor": "workbench.editor.chatSession",
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.enablePreviewFromQuickOpen": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "workbench.editor.limit.enabled": true,
+    "workbench.editor.limit.excludeDirty": true,
+    "workbench.editor.limit.perEditorGroup": true,
+    "workbench.editor.pinnedTabsOnSeparateRow": true
+}
